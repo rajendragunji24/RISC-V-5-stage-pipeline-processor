@@ -22,3 +22,4 @@ Automated self-checking testbench developed using Synopsys VCS
 Waveform debugging and signal-level trace analysis using Synopsys Verdi
 
 Validated: ALU operations, register writes, pipeline stalls, forwarding, branch execution, and memory correctness
+!(image alt)(image_url)
